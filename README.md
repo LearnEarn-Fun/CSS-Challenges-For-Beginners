@@ -4,7 +4,7 @@ This repository contains Beginner CSS Challenges & a Wiki that has complete tuto
  ![GitHub Repo stars](https://img.shields.io/github/stars/LearnEarn-Fun/CSS-Challenges-For-Beginners?style=for-the-badge)
  [![Watchers](https://img.shields.io/github/watchers/LearnEarn-Fun/CSS-Challenges-For-Beginners?style=for-the-badge)](https://github.com/LearnEarn-Fun/HTML-Challenges-Intermediate/watchers)
  <br><br>
-![CSS-Challenges-Beginners](https://raw.githubusercontent.com/LearnEarn-Fun/CSS-Challenges-For-Beginners/main/CSS-Challenges-For-Beginners.png)
+![CSS-Challenges-Beginners](https://socialify.git.ci/LearnEarn-Fun/CSS-Challenges-For-Beginners?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
 
 
 ## Challenges:
