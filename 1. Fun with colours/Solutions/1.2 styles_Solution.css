@@ -1,0 +1,14 @@
+ p {
+ color: #FF0000; 
+ }
+ 
+ /* Can be done in this way too: 
+ p {
+ color: red; 
+ }
+ */
+ 
+ /* And even in this way:
+ p {
+ color: rgb(255, 0, 0); 
+ } */
