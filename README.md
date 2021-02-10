@@ -24,4 +24,4 @@ Head over to <a href="https://github.com/LearnEarn-Fun/CSS-Challenges-For-Beginn
 
 
 ## LICENSE
-This Repository follows the [MIT License](https://github.com/LearnEarn-Fun/CSS-Challenges-For-Beginners/blob/main/LICENSE).
+This Repository follows the [GNU General Public License](https://github.com/LearnEarn-Fun/CSS-Challenges-For-Beginners/blob/main/LICENSE).
